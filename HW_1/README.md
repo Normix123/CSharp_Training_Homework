@@ -8,7 +8,7 @@ T is the **temperature in degrees Fahrenheit**, and v is the wind speed in **mil
 
 Create a console application where the **user** enters the temperature in **degrees Celsius**, the wind speed in **meters per second**, and gets the value of the effective air temperature **in degrees Celsius**.
 
-` `The specified formula is not valid if T is greater than 50 in absolute value, or if v is greater than 120 or less than 3. If these conditions are violated, the application performs the calculation and outputs the result, but after that it should display a warning that the result may be incorrect.
+* The specified formula is not valid if T is greater than 50 in absolute value, or if v is greater than 120 or less than 3. If these conditions are violated, the application performs the calculation and outputs the result, but after that it should display a warning that the result may be incorrect.
 
 ## Task 2. 
 At startup, the application asks the user for two integers a and b (assume that the user enters the integers without errors). The application then outputs all positive integers in the range from a (inclusive) to b (inclusive), which in their binary representation have exactly 4 units. Develop a console application that implements the specified functionality.
